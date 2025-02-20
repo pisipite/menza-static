@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tippelős Játék</title>
+    <style>
+        .question {
+            font-size: 24px;
+            color: blue;
+            text-transform: uppercase;
+        }
+        .correct {
+            color: green;
+        }
+        .incorrect {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="question">Ki főzte ezt: <span id="dish"></span></h1>
+    <form id="quiz-form">
+        <input type="radio" name="option" value="0" required> a) <span id="option0"></span><br>
+        <input type="radio" name="option" value="1" required> b) <span id="option1"></span><br>
+        <input type="radio" name="option" value="2" required> c) <span id="option2"></span><br>
+        <button type="submit">Válasz</button>
+    </form>
+    <p id="result"></p>
+    <p>Eddigi pontszám: <span id="score">0</span>/<span id="questions-asked">0</span></p>
+
+    <script>
+        let data = [];
+
+        fetch('menza.json')
+            .then(response => response.json())
+            .then(json => {
+                data = json;
+                loadQuestion();
+            });
+
+        let score = 0;
+        let questionsAsked = 0;
+        let correctName = "";
+
+        function getRandomQuestion() {
+            const item = data[Math.floor(Math.random() * data.length)];
+            correctName = item["Név"];
+            const options = data.filter(row => row["Név"] !== correctName)
+                                .map(row => row["Név"])
+                                .sort(() => 0.5 - Math.random())
+                                .slice(0, 2);
+            options.push(correctName);
+            options.sort(() => 0.5 - Math.random());
+            return { dish: item["Mit főzött"], options };
+        }
+
+        function loadQuestion() {
+            const question = getRandomQuestion();
+            document.getElementById("dish").textContent = question.dish;
+            document.getElementById("option0").textContent = question.options[0];
+            document.getElementById("option1").textContent = question.options[1];
+            document.getElementById("option2").textContent = question.options[2];
+        }
+
+        document.getElementById("quiz-form").addEventListener("submit", function(event) {
+            event.preventDefault();
+            const selectedOption = document.querySelector('input[name="option"]:checked').value;
+            questionsAsked++;
+            if (document.getElementById(`option${selectedOption}`).textContent === correctName) {
+                score++;
+                document.getElementById("result").textContent = "Gratulálok, eltaláltad!";
+                document.getElementById("result").className = "correct";
+            } else {
+                document.getElementById("result").textContent = `Sajnálom, nem találtad el. A helyes válasz: ${correctName}`;
+                document.getElementById("result").className = "incorrect";
+            }
+            document.getElementById("score").textContent = score;
+            document.getElementById("questions-asked").textContent = questionsAsked;
+            loadQuestion();
+        });
+    </script>
+</body>
+</html>
