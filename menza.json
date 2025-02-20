@@ -1,6 +1,850 @@
 [
-    { "Mit főzött": "Gulyásleves", "Név": "Kovács Anna" },
-    { "Mit főzött": "Paprikás csirke", "Név": "Szabó Béla" },
-    { "Mit főzött": "Lecsó", "Név": "Nagy Csilla" }
-    // Add more data as needed
+    {
+        "Mit főzött": "Csicseris gombapaprikás és rizs",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Rakott kelkáposzta",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Sütőtökös lasagne",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Tortilla tekercsek és bulguros zöldségmix",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Krumplifőzelék és karfiolfasírt",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Kelkáposzta főzelék főtt tojással",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Csicseriborsó dahl és vöröslencse dahl",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Muszaka",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Céklás sült kelkáposztás spagetti kecskesajttal",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Almás-zelleres rakott krumpli",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Édeskrumplileves és céklacsipsz",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Pásztorpite (vega és húsos verzió)",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Krumpligombóc tepsiben és kókusztejes laskagomba",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Zöldséges lasagne",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Sajtos-spenótos-paradicsomos-paprikás tepsis penne",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Majonézes krumplisaláta és zöldségfasírt",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Sültkrumpli és sültpaprika leves",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Zöldségcurry rizzsel",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Sült újkrumpli és spenótfőzelék",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Sült zöldséges-grillsajtos hajdinasaláta",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Töltött padlizsán petrezselymes bulgurral",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Krumplis kelfőzelék főtt tojással (tejfölmentes változat is)",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Köles, lecsókrém, cukkini tepsiben (Dórinak mozzarella nélkül)",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Gombás-padlizsános-tofus rétes fetasajttal, cékla-répa-alma saláta",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Muszaka",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Tökleves, édeskrumpli tócsni",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Céklás-répás trutyi, sült káposztás bulgur, falafel golyók",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Csicserivel töltött padlizsán hajdinával",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Őszi sült zöldségek fetasajttal és tahinivel, hozzá tészta",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Céklás-répás trutyi, sült káposztás bulgur, falafel golyók",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Brokkolileves és paradicsomos-gombás-spenótos tészta",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Sütőtökös-padlizsános curry rizzsel",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Mentes székelykáposzta",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Gombapaprikás rizzsel",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Sütőtökkrémleves, hagymás krumpli",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Sütőtökös-spenótos óriás quiche",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Gombás-spenótos (növényi) tejszínes ragu szójával és rizzsel",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Spenótos-paradicsomos tepsis tészta",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Karfiol curry rizzsel és friss korianderrel",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Brassói jellegű étel gombával",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Sütőtökkrémleves és sült téli zöldségek zöldfűszeres tejföllel",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Borsófőzelék főtt tojással",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Sült krumpli, spenótos tofu, sült zöldségek",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Szabolcsi töltött káposzta (vega és húsos változatban)",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "",
+        "Név": ""
+    },
+    {
+        "Mit főzött": "Sütőtökkrémleves, sült répás-céklás lencsesaláta",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Chilis bab",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Majorannás krumplikrémleves, rozmaringos sütőtökös tészta",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Édeskrumplis karalábé főzelék, zöldségfasírt",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Céklás-kelbimbós spagetti",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Pizza különböző feltétekkel",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Gratin-szerű rakott krumpli",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Vega székelykáposzta",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Sárgarépás zellerkrémleves, cukormentes almás pite",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Gombás-paradicsomos lasagne",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Rakott kel",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Zöldségcurry tofuval és rizzsel",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Sült zöldséges-gombás gerslirizottó",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Improvizált menza (hasonló a zöldségcurryhez)",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Hagymaleves, palacsinta",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Karfiolos zabfasírt, krumplipüré (édes és sima), joghurtos cékla",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Zöldborsófőzelék lisztes-krumplis pogácsaszerűséggel",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Spenótos-gombás rakott krumpli",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Gombapörkölt és galuska",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Ázsiai zöldségragu soba tésztával",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Sárgarépás-cukkínis vöröslencsefőzelék főtt tojással",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Shakshuka, teljes kiőrlésű pita, párolt mangold, humusz, savanyú káposzta",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Lecsó (bulguros-virslis verzió Dórinak, csipetkés-kolbászos Ádámnak)",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Rakott idényzöldségek (rizs, laktózmentes tejföl, tojás)",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Cukkínis tökfőzelék főtt tojással, almás kölesfelfújt vaníliapudinggal",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Rakott cukkini (tejfölmentes verzió Dórinak)",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Tejszínes-gombás cukkini tésztával",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Diós-parmezános gombafasírt rizzsel és salátával",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Töltött édeskrumpli",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Céklaleves",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Cukkinis lecsó",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Lasagne",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Medvehagymás tészta és almás süti",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Sült gombás-zöldséges-tojásos lepény",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Satay szószos cukkini-karfiol bulgurral",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Muszaka",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Édeskrumplis zabos tallérok, tofus spenót",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Kelkáposztás gombaragu gerstlivel",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Vöröslencse dahl, mazsolás-kurkumás rizs, kakaós sült karfiol",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Házi teriyaki szószos tofu és zöldségek rizzsel",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Töltött paprika",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Vega karfiol Dubarry módra",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Spárgás-retekes céklasaláta sült újkrumplival",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Céklás-spenótos lasagne zöldsalátával",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Borsófőzelék (tejföl nélkül), virsli",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Chili con carne, tejföllel és tortilla chips-szel",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Spárgás-gombás rizottó, opcionálisan sült csirkemájjal",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Zöldséges curry rizzsel",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Spárgás-újkelkáposztás rakott krumpli",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Tökfőzelék, cukkinifasírt és paradicsomos-borsós szósz",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Tejfölös gombapörkölt galuskával (Dórinak rizzsel)",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Sült zöldséges-fetás tepsis puliszka",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Paradicsomos babbal és csicserivel töltött paprika rizzsel",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Pásztorpite (húsos és vega változatban)",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Tökleves és tepsis tócsni",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Zabtejszínes krumplileves és patiszonos quiche",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Gévagombából készült gombapörkölt, sült krumpli, répasaláta",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Sütőtökös lasagne",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Erdei gombás rizottó",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Lila-zöld spagetti tofuval és tahinis szósszal",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Répatorta",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Borsós-currys sült tök rizzsel és falafellel",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Tojásos lecsó",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Wokos zöldség rizzsel",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Sült édeskrumpli és cékla házi paprikakrémmel",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Hagymaleves és bécsi palacsinta",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Tortilla bucik céklakrémmel, sült zöldségekkel és tofuval",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Sült zöldségből készült krémleves",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Indiai jellegű egytálétel lencsefasírttal",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Gombapaprikás petrezselymes kölessel",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Rakott krumpli",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Wokos zöldség üvegtésztával",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Székelykáposzta (húsos és tofus változatban)",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Sütőtökös-édeskrumplis leves és sütőtökös süti",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Wokos zöldséges-tofus tojásos rizs",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Teljes kiőrlésű spagetti spenótos-sült édeskrumplis-paradicsomos szósszal",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "",
+        "Név": ""
+    },
+    {
+        "Mit főzött": "Lilakáposzta-krémleves, rakott édesburgonya köleses-gombás töltelékkel",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Káposztafarsírt, bulgur, fűszeres paradicsomszósz",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Vega gombapaprikás, petrezselymes köles, csokis-sütőtökös süti",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Frankfurti leves, rakott babos tészta",
+        "Név": "András Vigvári"
+    },
+    {
+        "Mit főzött": "Szarvasgombás házi pizza, sült karfiolos saláta",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Ázsiai sült batyuk mogyorószósszal és rizzsel kelkáposztával",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Vega bolognai ragus tepsis rakott tészta",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Kelkáposzta főzelék (kétféle feltéttel: virsli és tojáskrokett)",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Csicseriborsós gombapörkölt zöldséges bulgurral",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Káposztás-céklás leves sült tofúval, hajdinapalacsinta",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Currys rizs, sült zeller és édeskrumpli, spenótos tofu",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Gombás rakott kelkáposzta",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Töltött karalábé bulgurral",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Erdélyi rakott káposzta (húsos és húsmentes változatban)",
+        "Név": "András Vigvári"
+    },
+    {
+        "Mit főzött": "Sütőtökkrémleves, sült zöldséges fetás lencsesaláta",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Borsófőzelék rántott sajttal",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Kókuszos csirkecurry kurkumás rizzsel",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Békebeli bolognai ragu",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Csiperkegomba krémleves, pirított karfiolos vöröslencsecurry basmati rizzsel",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Muszaka",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Céklás lasagne (tofuval és répával)",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Gombás-padlizsános curry gerslivel",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Tofus-tojásos-répás batyuk és saláta",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Zöldségcurry rizzsel",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Medvehagymás krumplikrémleves, gombás-zöldséges quiche",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Paradicsomos gomba tésztával",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Wok zöldség sült krumplival és zöld szósszal",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Tepsis újkrumpli, mángold szósz, zabpehelyben forgatott rizsgolyók",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Rakott spárga",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "K-leves (karalábé, krumpli, karfiol, káposzta), rebarbarás-almás zabsüti",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Sült halloumi, coleslaw, hagymás tepsis krumpli",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Cukkinis wok zöldség és sült krumpli",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Tofus wokos zöldség rizzsel",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Spárgás-gombás rakott újkrumpli",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Tejfölös újkrumpli főzelék sült zellerrel",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Spenótos-paradicsomos-sajtos-kerti mángoldos lasagne",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Krumplifasírt (fejenként négy darab), mángoldos-kapros tök",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Tabouleh cukkinivel, grillsajttal, aszalt paradicsommal; lime-os bazsalikomos répasaláta",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Kukorica krémleves, túrógombóc tejföllel (fejenként 5 db)",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Tabouleh cukkinivel, grillsajttal, aszalt paradicsommal; lime-os bazsalikomos répasaláta",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Petrezselymes újkrumpli, cukkiniragu (lecsó), vajon párolt vajbab",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Meggyleves, tésztasaláta",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Tökfőzelék (laktózmentes), zöldségfasírt",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Gombás-zöldséges pizza",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Zöldségcurry lepénnyel (sima és teljes kiőrlésű), korianderrel és lime-mal",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Céklafasírt, joghurtos padlizsán és cukkini",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Karalábéleves, póréhagymás lepény",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Tökös quiche, tzatziki",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Sült karfiolos csicseris saláta zöldekkel; zöldbabkrémleves pirított zöldbabbal",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Répával töltött padlizsán, sültpaprikás petrezselymes bulgur",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Paradicsomos-köleses/csicseris rakott cukkini",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Patiszonos-pesztós tészta, laktózmentes joghurtos céklasaláta",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Lecsó tojással",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Laskás paprikás krumpli gyöngyhagymával és uborkával",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Köleses rakott zöldségek",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Vega chili con carne",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Cukkinis lasagne",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Gombapaprikás tésztával",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Gratin-jellegű étel: sült krumplipüré, kukorica-hagyma-cukkini növényi tejszínes tojásos szósszal",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Csípős zöldségragu bulgurral",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Spenótos tofu tejszínes mártásban, cukkinis zabos tallérok",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Spenótos-paradicsomos-sajtos tepsis penne",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Karfiolos-hagymás tört krumpli zöldségfasírttal",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Padlizsánkrémmel töltött sült paprika krumplival",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Sütőtökkrémleves pirított tökmaggal, sajtos muffin",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Tofus székelykáposzta",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Gombaleves, wokos zöldség",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Céklás-karfiolos wokzöldség sült kelkáposztás hajdinával",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Kelet-európai céklás-káposztás leves, körtés-gyömbéres süti",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Lecsó (kolbászos és vega verzió)",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Zöldborsófőzelék, cukkínis-répás-zabos zöldségfasírt",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Rakott krumpli (két üvegtálban, mindkettő vega)",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Paradicsomos tészta reszelt tofuval",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Sült polenta juhtúróval (Dórinak anélkül), sült cékla és kelkáposzta szezámos szósszal",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Sült paprika paradicsomos-spenótos rizzsel",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Sütőtökös-fetás sült zöldség bulgurral (feta nélküli verzió Dórinak)",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Sütőtökleves és brokkolis pizza",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Kelkáposztakrémleves és répás-sajtos muffin",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Fetas-édeskrumplis krémmel sült kelbimbós hajdina, szezámos wokos gyökérzöldségek",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Rakott karfiol",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Édeskrumplis-csicsókás püré, wokos zöldségkeverék",
+        "Név": "Attila Juhász"
+    },
+    {
+        "Mit főzött": "Pirított kínai keles-túrós/fetás bulgurral",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Kelkáposztafőzelék sült törtkrumplival és keménytojással",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Gombás-karalábés rizottó friss tavaszi salátával",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Sárgacéklás zöldségragu, sült krumpli és céklalevél \"szötty\"",
+        "Név": "Pósfai Zsuzsi"
+    },
+    {
+        "Mit főzött": "Zabos-csicseris fasírt és fűszeres répasaláta",
+        "Név": "Dóri Gimes"
+    },
+    {
+        "Mit főzött": "Zöldborsófőzelék és babfasírt",
+        "Név": "Ádám Pintér"
+    },
+    {
+        "Mit főzött": "Rakott kínai kel (húsos és húsmentes változatban)",
+        "Név": "Zsófia Ivanics"
+    },
+    {
+        "Mit főzött": "Vega muszaka",
+        "Név": "Jelinek Csaba"
+    },
+    {
+        "Mit főzött": "Krumplipüré, szójásan sült brokkoli és kelbimbó, céklafasírt, tejfölös-fűszeres szósz",
+        "Név": "Pósfai Zsuzsi"
+    }
 ]
