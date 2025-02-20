@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Tippelős Játék</title>
+    <title>Cinka menza tippelős</title>
     <style>
         .question {
             font-size: 24px;
@@ -45,10 +45,9 @@
         function getRandomQuestion() {
             const item = data[Math.floor(Math.random() * data.length)];
             correctName = item["Név"];
-            const options = data.filter(row => row["Név"] !== correctName)
-                                .map(row => row["Név"])
-                                .sort(() => 0.5 - Math.random())
-                                .slice(0, 2);
+            let options = data.filter(row => row["Név"] !== correctName)
+                              .map(row => row["Név"]);
+            options = options.sort(() => 0.5 - Math.random()).slice(0, 2);
             options.push(correctName);
             options.sort(() => 0.5 - Math.random());
             return { dish: item["Mit főzött"], options };
