@@ -4,29 +4,65 @@
     <meta charset="UTF-8">
     <title>Cinka menza tippelős</title>
     <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            background-color: #f0f0f0;
+            margin: 0;
+        }
         .question {
             font-size: 24px;
-            color: blue;
+            color: #2C2C54;
             text-transform: uppercase;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .card {
+            background-color: white;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+        .card:hover {
+            transform: scale(1.05);
         }
         .correct {
-            color: green;
+            color: #136F63;
         }
         .incorrect {
-            color: red;
+            color: #A40E4C;
+        }
+        .cards-container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .result {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+        .score {
+            margin-top: 10px;
+            font-size: 16px;
         }
     </style>
 </head>
 <body>
     <h1 class="question">Ki főzte ezt: <span id="dish"></span></h1>
-    <form id="quiz-form">
-        <input type="radio" name="option" value="0" required> a) <span id="option0"></span><br>
-        <input type="radio" name="option" value="1" required> b) <span id="option1"></span><br>
-        <input type="radio" name="option" value="2" required> c) <span id="option2"></span><br>
-        <button type="submit">Válasz</button>
-    </form>
-    <p id="result"></p>
-    <p>Eddigi pontszám: <span id="score">0</span>/<span id="questions-asked">0</span></p>
+    <div class="cards-container">
+        <div class="card" id="option0" onclick="selectOption(0)"></div>
+        <div class="card" id="option1" onclick="selectOption(1)"></div>
+        <div class="card" id="option2" onclick="selectOption(2)"></div>
+    </div>
+    <p id="result" class="result"></p>
+    <p class="score">Eddigi pontszám: <span id="score">0</span>/<span id="questions-asked">0</span></p>
 
     <script>
         let data = [];
@@ -59,24 +95,23 @@
             document.getElementById("option0").textContent = question.options[0];
             document.getElementById("option1").textContent = question.options[1];
             document.getElementById("option2").textContent = question.options[2];
+            document.getElementById("result").textContent = "";
         }
 
-        document.getElementById("quiz-form").addEventListener("submit", function(event) {
-            event.preventDefault();
-            const selectedOption = document.querySelector('input[name="option"]:checked').value;
+        function selectOption(optionIndex) {
             questionsAsked++;
-            if (document.getElementById(`option${selectedOption}`).textContent === correctName) {
+            if (document.getElementById(`option${optionIndex}`).textContent === correctName) {
                 score++;
                 document.getElementById("result").textContent = "Gratulálok, eltaláltad!";
-                document.getElementById("result").className = "correct";
+                document.getElementById("result").className = "result correct";
             } else {
                 document.getElementById("result").textContent = `Sajnálom, nem találtad el. A helyes válasz: ${correctName}`;
-                document.getElementById("result").className = "incorrect";
+                document.getElementById("result").className = "result incorrect";
             }
             document.getElementById("score").textContent = score;
             document.getElementById("questions-asked").textContent = questionsAsked;
             loadQuestion();
-        });
+        }
     </script>
 </body>
 </html>
