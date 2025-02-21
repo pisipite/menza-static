@@ -1,850 +1,1057 @@
 [
     {
-        "Mit főzött": "Csicseris gombapaprikás és rizs",
-        "Név": "Attila Juhász"
+        "Név": "Pite",
+        "Dátum": "2024. január 10.",
+        "Mit főzött": "Csicseris gombapaprikás és rizs"
     },
     {
-        "Mit főzött": "Rakott kelkáposzta",
-        "Név": "Dóri Gimes"
+        "Név": "Dóri",
+        "Dátum": "2024. január 15.",
+        "Mit főzött": "Rakott kelkáposzta"
     },
     {
-        "Mit főzött": "Sütőtökös lasagne",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsófi",
+        "Dátum": "2024. január 18.",
+        "Mit főzött": "Sütőtökös lasagne"
     },
     {
-        "Mit főzött": "Tortilla tekercsek és bulguros zöldségmix",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Zsuzsi",
+        "Dátum": "2024. január 25.",
+        "Mit főzött": "Tortilla tekercsek és bulguros zöldségmix"
     },
     {
-        "Mit főzött": "Krumplifőzelék és karfiolfasírt",
-        "Név": "Ádám Pintér"
+        "Név": "Ádám",
+        "Dátum": "2024. február 21.",
+        "Mit főzött": "Krumplifőzelék és karfiolfasírt"
     },
     {
-        "Mit főzött": "Kelkáposzta főzelék főtt tojással",
-        "Név": "Dóri Gimes"
+        "Név": "Dóri",
+        "Dátum": "2024. február 26.",
+        "Mit főzött": "Kelkáposzta főzelék főtt tojással"
     },
     {
-        "Mit főzött": "Csicseriborsó dahl és vöröslencse dahl",
-        "Név": "Jelinek Csaba"
+        "Név": "Csaba",
+        "Dátum": "2024. február 28.",
+        "Mit főzött": "Csicseriborsó dahl és vöröslencse dahl"
     },
     {
-        "Mit főzött": "Muszaka",
-        "Név": "Attila Juhász"
+        "Név": "Pite",
+        "Dátum": "2024. március 2.",
+        "Mit főzött": "Muszaka"
     },
     {
-        "Mit főzött": "Céklás sült kelkáposztás spagetti kecskesajttal",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsófi",
+        "Dátum": "2024. március 7.",
+        "Mit főzött": "Céklás sült kelkáposztás spagetti kecskesajttal"
     },
     {
-        "Mit főzött": "Almás-zelleres rakott krumpli",
-        "Név": "Dóri Gimes"
+        "Név": "Dóri",
+        "Dátum": "2024. március 10.",
+        "Mit főzött": "Almás-zelleres rakott krumpli"
     },
     {
-        "Mit főzött": "Édeskrumplileves és céklacsipsz",
-        "Név": "Ádám Pintér"
+        "Név": "Ádám",
+        "Dátum": "2024. március 19.",
+        "Mit főzött": "Édeskrumplileves és céklacsipsz"
     },
     {
-        "Mit főzött": "Pásztorpite (vega és húsos verzió)",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsófi",
+        "Dátum": "2024. április 7.",
+        "Mit főzött": "Pásztorpite (vega és húsos verzió)"
     },
     {
-        "Mit főzött": "Krumpligombóc tepsiben és kókusztejes laskagomba",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Zsuzsi",
+        "Dátum": "2024. április 12.",
+        "Mit főzött": "Krumpligombóc tepsiben és kókusztejes laskagomba"
     },
     {
-        "Mit főzött": "Zöldséges lasagne",
-        "Név": "Jelinek Csaba"
+        "Név": "Csaba",
+        "Dátum": "2024. április 13.",
+        "Mit főzött": "Zöldséges lasagne"
     },
     {
-        "Mit főzött": "Sajtos-spenótos-paradicsomos-paprikás tepsis penne",
-        "Név": "Dóri Gimes"
+        "Név": "Dóri",
+        "Dátum": "2024. április 22.",
+        "Mit főzött": "Sajtos-spenótos-paradicsomos-paprikás tepsis penne"
     },
     {
-        "Mit főzött": "Majonézes krumplisaláta és zöldségfasírt",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Zsuzsi",
+        "Dátum": "2024. április 25.",
+        "Mit főzött": "Majonézes krumplisaláta és zöldségfasírt"
     },
     {
-        "Mit főzött": "Sültkrumpli és sültpaprika leves",
-        "Név": "Attila Juhász"
+        "Név": "Pite",
+        "Dátum": "2024. április 27.",
+        "Mit főzött": "Sültkrumpli és sültpaprika leves"
     },
     {
-        "Mit főzött": "Zöldségcurry rizzsel",
-        "Név": "Jelinek Csaba"
+        "Név": "Csaba",
+        "Dátum": "2024. április 29.",
+        "Mit főzött": "Zöldségcurry rizzsel"
     },
     {
-        "Mit főzött": "Sült újkrumpli és spenótfőzelék",
-        "Név": "Ádám Pintér"
+        "Név": "Ádám",
+        "Dátum": "2024. május 10.",
+        "Mit főzött": "Sült újkrumpli és spenótfőzelék"
     },
     {
-        "Mit főzött": "Sült zöldséges-grillsajtos hajdinasaláta",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsófi",
+        "Dátum": "2024. május 11.",
+        "Mit főzött": "Sült zöldséges-grillsajtos hajdinasaláta"
     },
     {
-        "Mit főzött": "Töltött padlizsán petrezselymes bulgurral",
-        "Név": "Jelinek Csaba"
+        "Név": "Csaba",
+        "Dátum": "2024. június 19.",
+        "Mit főzött": "Töltött padlizsán petrezselymes bulgurral"
     },
     {
-        "Mit főzött": "Krumplis kelfőzelék főtt tojással (tejfölmentes változat is)",
-        "Név": "Jelinek Csaba"
+        "Név": "Csaba",
+        "Dátum": "2024. szeptember 29.",
+        "Mit főzött": "Krumplis kelfőzelék főtt tojással (tejfölmentes változat is)"
     },
     {
-        "Mit főzött": "Köles, lecsókrém, cukkini tepsiben (Dórinak mozzarella nélkül)",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsófi",
+        "Dátum": "2024. október 1.",
+        "Mit főzött": "Köles, lecsókrém, cukkini tepsiben (Dórinak mozzarella nélkül)"
     },
     {
-        "Mit főzött": "Gombás-padlizsános-tofus rétes fetasajttal, cékla-répa-alma saláta",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Zsuzsi",
+        "Dátum": "2024. október 3.",
+        "Mit főzött": "Gombás-padlizsános-tofus rétes fetasajttal, cékla-répa-alma saláta"
     },
     {
-        "Mit főzött": "Muszaka",
-        "Név": "Attila Juhász"
+        "Név": "Pite",
+        "Dátum": "2024. október 5.",
+        "Mit főzött": "Muszaka"
     },
     {
-        "Mit főzött": "Tökleves, édeskrumpli tócsni",
-        "Név": "Attila Juhász"
+        "Név": "Pite",
+        "Dátum": "2024. október 12.",
+        "Mit főzött": "Tökleves, édeskrumpli tócsni"
     },
     {
-        "Mit főzött": "Céklás-répás trutyi, sült káposztás bulgur, falafel golyók",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsófi",
+        "Dátum": "2024. október 17.",
+        "Mit főzött": "Céklás-répás trutyi, sült káposztás bulgur, falafel golyók"
     },
     {
-        "Mit főzött": "Csicserivel töltött padlizsán hajdinával",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsófi",
+        "Dátum": "2024. október 24.",
+        "Mit főzött": "Csicserivel töltött padlizsán hajdinával"
     },
     {
-        "Mit főzött": "Őszi sült zöldségek fetasajttal és tahinivel, hozzá tészta",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Zsuzsi",
+        "Dátum": "2024. október 20.",
+        "Mit főzött": "Őszi sült zöldségek fetasajttal és tahinivel, hozzá tészta"
     },
     {
-        "Mit főzött": "Céklás-répás trutyi, sült káposztás bulgur, falafel golyók",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsófi",
+        "Dátum": "2024. október 17.",
+        "Mit főzött": "Céklás-répás trutyi, sült káposztás bulgur, falafel golyók"
     },
     {
-        "Mit főzött": "Brokkolileves és paradicsomos-gombás-spenótos tészta",
-        "Név": "Attila Juhász"
+        "Név": "Pite",
+        "Dátum": "2024. október 29.",
+        "Mit főzött": "Brokkolileves és paradicsomos-gombás-spenótos tészta"
     },
     {
-        "Mit főzött": "Sütőtökös-padlizsános curry rizzsel",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Zsuzsi",
+        "Dátum": "2024. november 3.",
+        "Mit főzött": "Sütőtökös-padlizsános curry rizzsel"
     },
     {
-        "Mit főzött": "Mentes székelykáposzta",
-        "Név": "Jelinek Csaba"
+        "Név": "Csaba",
+        "Dátum": "2024. november 21.",
+        "Mit főzött": "Mentes székelykáposzta"
     },
     {
-        "Mit főzött": "Gombapaprikás rizzsel",
-        "Név": "Attila Juhász"
+        "Név": "Pite",
+        "Dátum": "2024. november 16.",
+        "Mit főzött": "Gombapaprikás rizzsel"
     },
     {
-        "Mit főzött": "Sütőtökkrémleves, hagymás krumpli",
-        "Név": "Ádám Pintér"
+        "Név": "Ádám",
+        "Dátum": "2024. november 15.",
+        "Mit főzött": "Sütőtökkrémleves, hagymás krumpli"
     },
     {
-        "Mit főzött": "Sütőtökös-spenótos óriás quiche",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Zsuzsi",
+        "Dátum": "2024. november 24.",
+        "Mit főzött": "Sütőtökös-spenótos óriás quiche"
     },
     {
-        "Mit főzött": "Gombás-spenótos (növényi) tejszínes ragu szójával és rizzsel",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsófi",
+        "Dátum": "2024. november 25.",
+        "Mit főzött": "Gombás-spenótos (növényi) tejszínes ragu szójával és rizzsel"
     },
     {
-        "Mit főzött": "Spenótos-paradicsomos tepsis tészta",
-        "Név": "Dóri Gimes"
+        "Név": "Dóri",
+        "Dátum": "2024. december 1.",
+        "Mit főzött": "Spenótos-paradicsomos tepsis tészta"
     },
     {
-        "Mit főzött": "Karfiol curry rizzsel és friss korianderrel",
-        "Név": "Jelinek Csaba"
+        "Név": "Csaba",
+        "Dátum": "2024. december 6.",
+        "Mit főzött": "Karfiol curry rizzsel és friss korianderrel"
     },
     {
-        "Mit főzött": "Brassói jellegű étel gombával",
-        "Név": "Attila Juhász"
+        "Név": "Pite",
+        "Dátum": "2024. december 8.",
+        "Mit főzött": "Brassói jellegű étel gombával"
     },
     {
-        "Mit főzött": "Sütőtökkrémleves és sült téli zöldségek zöldfűszeres tejföllel",
-        "Név": "Ádám Pintér"
+        "Név": "Ádám",
+        "Dátum": "2024. december 14.",
+        "Mit főzött": "Sütőtökkrémleves és sült téli zöldségek zöldfűszeres tejföllel"
     },
     {
-        "Mit főzött": "Borsófőzelék főtt tojással",
-        "Név": "Dóri Gimes"
+        "Név": "Dóri",
+        "Dátum": "2024. december 15.",
+        "Mit főzött": "Borsófőzelék főtt tojással"
     },
     {
-        "Mit főzött": "Sült krumpli, spenótos tofu, sült zöldségek",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsófi",
+        "Dátum": "2024. december 17.",
+        "Mit főzött": "Sült krumpli, spenótos tofu, sült zöldségek"
     },
     {
-        "Mit főzött": "Szabolcsi töltött káposzta (vega és húsos változatban)",
-        "Név": "Jelinek Csaba"
+        "Név": "Csaba",
+        "Dátum": "2024. december 20.",
+        "Mit főzött": "Szabolcsi töltött káposzta (vega és húsos változatban)"
     },
     {
-        "Mit főzött": "",
-        "Név": ""
+        "Név": "Ádám",
+        "Dátum": "2023. január 24.",
+        "Mit főzött": "Sütőtökkrémleves, sült répás-céklás lencsesaláta"
     },
     {
-        "Mit főzött": "Sütőtökkrémleves, sült répás-céklás lencsesaláta",
-        "Név": "Ádám Pintér"
+        "Név": "Zsófi",
+        "Dátum": "2023. január 29.",
+        "Mit főzött": "Chilis bab"
     },
     {
-        "Mit főzött": "Chilis bab",
-        "Név": "Zsófia Ivanics"
+        "Név": "Csaba",
+        "Dátum": "2023. február 2.",
+        "Mit főzött": "Majorannás krumplikrémleves, rozmaringos sütőtökös tészta"
     },
     {
-        "Mit főzött": "Majorannás krumplikrémleves, rozmaringos sütőtökös tészta",
-        "Név": "Jelinek Csaba"
+        "Név": "Dóri",
+        "Dátum": "2023. február 5.",
+        "Mit főzött": "Édeskrumplis karalábé főzelék, zöldségfasírt"
     },
     {
-        "Mit főzött": "Édeskrumplis karalábé főzelék, zöldségfasírt",
-        "Név": "Dóri Gimes"
+        "Név": "Zsófi",
+        "Dátum": "2023. február 7.",
+        "Mit főzött": "Céklás-kelbimbós spagetti"
     },
     {
-        "Mit főzött": "Céklás-kelbimbós spagetti",
-        "Név": "Zsófia Ivanics"
+        "Név": "Pite",
+        "Dátum": "2023. február 10.",
+        "Mit főzött": "Pizza különböző feltétekkel"
     },
     {
-        "Mit főzött": "Pizza különböző feltétekkel",
-        "Név": "Attila Juhász"
+        "Név": "Zsuzsi",
+        "Dátum": "2023. február 13.",
+        "Mit főzött": "Gratin-szerű rakott krumpli"
     },
     {
-        "Mit főzött": "Gratin-szerű rakott krumpli",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Ádám",
+        "Dátum": "2023. február 16.",
+        "Mit főzött": "Vega székelykáposzta"
     },
     {
-        "Mit főzött": "Vega székelykáposzta",
-        "Név": "Ádám Pintér"
+        "Név": "Dóri",
+        "Dátum": "2023. február 19.",
+        "Mit főzött": "Sárgarépás zellerkrémleves, cukormentes almás pite"
     },
     {
-        "Mit főzött": "Sárgarépás zellerkrémleves, cukormentes almás pite",
-        "Név": "Dóri Gimes"
+        "Név": "Csaba",
+        "Dátum": "2023. február 25.",
+        "Mit főzött": "Gombás-paradicsomos lasagne"
     },
     {
-        "Mit főzött": "Gombás-paradicsomos lasagne",
-        "Név": "Jelinek Csaba"
+        "Név": "Ádám",
+        "Dátum": "2023. március 7.",
+        "Mit főzött": "Rakott kel"
     },
     {
-        "Mit főzött": "Rakott kel",
-        "Név": "Ádám Pintér"
+        "Név": "Zsuzsi",
+        "Dátum": "2023. március 11.",
+        "Mit főzött": "Zöldségcurry tofuval és rizzsel"
     },
     {
-        "Mit főzött": "Zöldségcurry tofuval és rizzsel",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Dóri",
+        "Dátum": "2023. március 13.",
+        "Mit főzött": "Sült zöldséges-gombás gerslirizottó"
     },
     {
-        "Mit főzött": "Sült zöldséges-gombás gerslirizottó",
-        "Név": "Dóri Gimes"
+        "Név": "Zsófi",
+        "Dátum": "2023. március 16.",
+        "Mit főzött": "Improvizált menza (hasonló a zöldségcurryhez)"
     },
     {
-        "Mit főzött": "Improvizált menza (hasonló a zöldségcurryhez)",
-        "Név": "Zsófia Ivanics"
+        "Név": "Csaba",
+        "Dátum": "2023. március 17.",
+        "Mit főzött": "Hagymaleves, palacsinta"
     },
     {
-        "Mit főzött": "Hagymaleves, palacsinta",
-        "Név": "Jelinek Csaba"
+        "Név": "Zsófi",
+        "Dátum": "2023. március 19.",
+        "Mit főzött": "Karfiolos zabfasírt, krumplipüré (édes és sima), joghurtos cékla"
     },
     {
-        "Mit főzött": "Karfiolos zabfasírt, krumplipüré (édes és sima), joghurtos cékla",
-        "Név": "Zsófia Ivanics"
+        "Név": "Ádám",
+        "Dátum": "2023. március 23.",
+        "Mit főzött": "Zöldborsófőzelék lisztes-krumplis pogácsaszerűséggel"
     },
     {
-        "Mit főzött": "Zöldborsófőzelék lisztes-krumplis pogácsaszerűséggel",
-        "Név": "Ádám Pintér"
+        "Név": "Zsuzsi",
+        "Dátum": "2023. március 26.",
+        "Mit főzött": "Spenótos-gombás rakott krumpli"
     },
     {
-        "Mit főzött": "Spenótos-gombás rakott krumpli",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Csaba",
+        "Dátum": "2023. március 27.",
+        "Mit főzött": "Gombapörkölt és galuska"
     },
     {
-        "Mit főzött": "Gombapörkölt és galuska",
-        "Név": "Jelinek Csaba"
+        "Név": "Ádám",
+        "Dátum": "2023. június 16.",
+        "Mit főzött": "Ázsiai zöldségragu soba tésztával"
     },
     {
-        "Mit főzött": "Ázsiai zöldségragu soba tésztával",
-        "Név": "Ádám Pintér"
+        "Név": "Dóri",
+        "Dátum": "2023. június 26.",
+        "Mit főzött": "Sárgarépás-cukkínis vöröslencsefőzelék főtt tojással"
     },
     {
-        "Mit főzött": "Sárgarépás-cukkínis vöröslencsefőzelék főtt tojással",
-        "Név": "Dóri Gimes"
+        "Név": "Zsófi",
+        "Dátum": "2023. július 2.",
+        "Mit főzött": "Shakshuka, teljes kiőrlésű pita, párolt mangold, humusz, savanyú káposzta"
     },
     {
-        "Mit főzött": "Shakshuka, teljes kiőrlésű pita, párolt mangold, humusz, savanyú káposzta",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsófi",
+        "Dátum": "2023. augusztus 24.",
+        "Mit főzött": "Lecsó (bulguros-virslis verzió Dórinak, csipetkés-kolbászos Ádámnak)"
     },
     {
-        "Mit főzött": "Lecsó (bulguros-virslis verzió Dórinak, csipetkés-kolbászos Ádámnak)",
-        "Név": "Zsófia Ivanics"
+        "Név": "Ádám",
+        "Dátum": "2023. szeptember 4.",
+        "Mit főzött": "Rakott idényzöldségek (rizs, laktózmentes tejföl, tojás)"
     },
     {
-        "Mit főzött": "Rakott idényzöldségek (rizs, laktózmentes tejföl, tojás)",
-        "Név": "Ádám Pintér"
+        "Név": "Dóri",
+        "Dátum": "2023. szeptember 6.",
+        "Mit főzött": "Cukkínis tökfőzelék főtt tojással, almás kölesfelfújt vaníliapudinggal"
     },
     {
-        "Mit főzött": "Cukkínis tökfőzelék főtt tojással, almás kölesfelfújt vaníliapudinggal",
-        "Név": "Dóri Gimes"
+        "Név": "Csaba",
+        "Dátum": "2023. szeptember 13.",
+        "Mit főzött": "Rakott cukkini (tejfölmentes verzió Dórinak)"
     },
     {
-        "Mit főzött": "Rakott cukkini (tejfölmentes verzió Dórinak)",
-        "Név": "Jelinek Csaba"
+        "Név": "Zsófi",
+        "Dátum": "2023. szeptember 16.",
+        "Mit főzött": "Tejszínes-gombás cukkini tésztával"
     },
     {
-        "Mit főzött": "Tejszínes-gombás cukkini tésztával",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsuzsi",
+        "Dátum": "2023. szeptember 18.",
+        "Mit főzött": "Diós-parmezános gombafasírt rizzsel és salátával"
     },
     {
-        "Mit főzött": "Diós-parmezános gombafasírt rizzsel és salátával",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Pite",
+        "Dátum": "2023. szeptember 20.",
+        "Mit főzött": "Töltött édeskrumpli"
     },
     {
-        "Mit főzött": "Töltött édeskrumpli",
-        "Név": "Attila Juhász"
+        "Név": "Pite",
+        "Dátum": "2023. szeptember 23.",
+        "Mit főzött": "Céklaleves"
     },
     {
-        "Mit főzött": "Céklaleves",
-        "Név": "Attila Juhász"
+        "Név": "Ádám",
+        "Dátum": "2023. szeptember 25.",
+        "Mit főzött": "Cukkinis lecsó"
     },
     {
-        "Mit főzött": "Cukkinis lecsó",
-        "Név": "Ádám Pintér"
+        "Név": "Zsuzsi",
+        "Dátum": "2023. szeptember 27.",
+        "Mit főzött": "Lasagne"
     },
     {
-        "Mit főzött": "Lasagne",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Pite",
+        "Dátum": "2023. március 30.",
+        "Mit főzött": "Medvehagymás tészta és almás süti"
     },
     {
-        "Mit főzött": "Medvehagymás tészta és almás süti",
-        "Név": "Attila Juhász"
+        "Név": "Dóri",
+        "Dátum": "2023. április 5.",
+        "Mit főzött": "Sült gombás-zöldséges-tojásos lepény"
     },
     {
-        "Mit főzött": "Sült gombás-zöldséges-tojásos lepény",
-        "Név": "Dóri Gimes"
+        "Név": "Csaba",
+        "Dátum": "2023. április 6.",
+        "Mit főzött": "Satay szószos cukkini-karfiol bulgurral"
     },
     {
-        "Mit főzött": "Satay szószos cukkini-karfiol bulgurral",
-        "Név": "Jelinek Csaba"
+        "Név": "Pite",
+        "Dátum": "2023. április 12.",
+        "Mit főzött": "Muszaka"
     },
     {
-        "Mit főzött": "Muszaka",
-        "Név": "Attila Juhász"
+        "Név": "Zsófi",
+        "Dátum": "2023. április 22.",
+        "Mit főzött": "Édeskrumplis zabos tallérok, tofus spenót"
     },
     {
-        "Mit főzött": "Édeskrumplis zabos tallérok, tofus spenót",
-        "Név": "Zsófia Ivanics"
+        "Név": "Ádám",
+        "Dátum": "2023. április 25.",
+        "Mit főzött": "Kelkáposztás gombaragu gerstlivel"
     },
     {
-        "Mit főzött": "Kelkáposztás gombaragu gerstlivel",
-        "Név": "Ádám Pintér"
+        "Név": "Zsófi",
+        "Dátum": "2023. április 29.",
+        "Mit főzött": "Vöröslencse dahl, mazsolás-kurkumás rizs, kakaós sült karfiol"
     },
     {
-        "Mit főzött": "Vöröslencse dahl, mazsolás-kurkumás rizs, kakaós sült karfiol",
-        "Név": "Zsófia Ivanics"
+        "Név": "Csaba",
+        "Dátum": "2023. május 5.",
+        "Mit főzött": "Házi teriyaki szószos tofu és zöldségek rizzsel"
     },
     {
-        "Mit főzött": "Házi teriyaki szószos tofu és zöldségek rizzsel",
-        "Név": "Jelinek Csaba"
+        "Név": "Pite",
+        "Dátum": "2023. május 7.",
+        "Mit főzött": "Töltött paprika"
     },
     {
-        "Mit főzött": "Töltött paprika",
-        "Név": "Attila Juhász"
+        "Név": "Dóri",
+        "Dátum": "2023. május 9.",
+        "Mit főzött": "Vega karfiol Dubarry módra"
     },
     {
-        "Mit főzött": "Vega karfiol Dubarry módra",
-        "Név": "Dóri Gimes"
+        "Név": "Ádám",
+        "Dátum": "2023. május 11.",
+        "Mit főzött": "Spárgás-retekes céklasaláta sült újkrumplival"
     },
     {
-        "Mit főzött": "Spárgás-retekes céklasaláta sült újkrumplival",
-        "Név": "Ádám Pintér"
+        "Név": "Zsuzsi",
+        "Dátum": "2023. május 12.",
+        "Mit főzött": "Céklás-spenótos lasagne zöldsalátával"
     },
     {
-        "Mit főzött": "Céklás-spenótos lasagne zöldsalátával",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Dóri",
+        "Dátum": "2023. május 14.",
+        "Mit főzött": "Borsófőzelék (tejföl nélkül), virsli"
     },
     {
-        "Mit főzött": "Borsófőzelék (tejföl nélkül), virsli",
-        "Név": "Dóri Gimes"
+        "Név": "Csaba",
+        "Dátum": "2023. május 18.",
+        "Mit főzött": "Chili con carne, tejföllel és tortilla chips-szel"
     },
     {
-        "Mit főzött": "Chili con carne, tejföllel és tortilla chips-szel",
-        "Név": "Jelinek Csaba"
+        "Név": "Ádám",
+        "Dátum": "2023. május 23.",
+        "Mit főzött": "Spárgás-gombás rizottó, opcionálisan sült csirkemájjal"
     },
     {
-        "Mit főzött": "Spárgás-gombás rizottó, opcionálisan sült csirkemájjal",
-        "Név": "Ádám Pintér"
+        "Név": "Zsófi",
+        "Dátum": "2023. május 25.",
+        "Mit főzött": "Zöldséges curry rizzsel"
     },
     {
-        "Mit főzött": "Zöldséges curry rizzsel",
-        "Név": "Zsófia Ivanics"
+        "Név": "Ádám",
+        "Dátum": "2023. június 7.",
+        "Mit főzött": "Spárgás-újkelkáposztás rakott krumpli"
     },
     {
-        "Mit főzött": "Spárgás-újkelkáposztás rakott krumpli",
-        "Név": "Ádám Pintér"
+        "Név": "Pite",
+        "Dátum": "2023. június 10.",
+        "Mit főzött": "Tökfőzelék, cukkinifasírt és paradicsomos-borsós szósz"
     },
     {
-        "Mit főzött": "Tökfőzelék, cukkinifasírt és paradicsomos-borsós szósz",
-        "Név": "Attila Juhász"
+        "Név": "Csaba",
+        "Dátum": "2023. szeptember 29.",
+        "Mit főzött": "Tejfölös gombapörkölt galuskával (Dórinak rizzsel)"
     },
     {
-        "Mit főzött": "Tejfölös gombapörkölt galuskával (Dórinak rizzsel)",
-        "Név": "Jelinek Csaba"
+        "Név": "Dóri",
+        "Dátum": "2023. október 2.",
+        "Mit főzött": "Sült zöldséges-fetás tepsis puliszka"
     },
     {
-        "Mit főzött": "Sült zöldséges-fetás tepsis puliszka",
-        "Név": "Dóri Gimes"
+        "Név": "Zsófi",
+        "Dátum": "2023. október 7.",
+        "Mit főzött": "Paradicsomos babbal és csicserivel töltött paprika rizzsel"
     },
     {
-        "Mit főzött": "Paradicsomos babbal és csicserivel töltött paprika rizzsel",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsófi",
+        "Dátum": "2023. október 11.",
+        "Mit főzött": "Pásztorpite (húsos és vega változatban)"
     },
     {
-        "Mit főzött": "Pásztorpite (húsos és vega változatban)",
-        "Név": "Zsófia Ivanics"
+        "Név": "Pite",
+        "Dátum": "2023. október 21.",
+        "Mit főzött": "Tökleves és tepsis tócsni"
     },
     {
-        "Mit főzött": "Tökleves és tepsis tócsni",
-        "Név": "Attila Juhász"
+        "Név": "Csaba",
+        "Dátum": "2023. október 23.",
+        "Mit főzött": "Zabtejszínes krumplileves és patiszonos quiche"
     },
     {
-        "Mit főzött": "Zabtejszínes krumplileves és patiszonos quiche",
-        "Név": "Jelinek Csaba"
+        "Név": "Zsuzsi",
+        "Dátum": "2023. október 26.",
+        "Mit főzött": "Gévagombából készült gombapörkölt, sült krumpli, répasaláta"
     },
     {
-        "Mit főzött": "Gévagombából készült gombapörkölt, sült krumpli, répasaláta",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Csaba",
+        "Dátum": "2023. november 1.",
+        "Mit főzött": "Sütőtökös lasagne"
     },
     {
-        "Mit főzött": "Sütőtökös lasagne",
-        "Név": "Jelinek Csaba"
+        "Név": "Pite",
+        "Dátum": "2023. november 5.",
+        "Mit főzött": "Erdei gombás rizottó"
     },
     {
-        "Mit főzött": "Erdei gombás rizottó",
-        "Név": "Attila Juhász"
+        "Név": "Zsuzsi",
+        "Dátum": "2023. november 8.",
+        "Mit főzött": "Lila-zöld spagetti tofuval és tahinis szósszal"
     },
     {
-        "Mit főzött": "Lila-zöld spagetti tofuval és tahinis szósszal",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Zsuzsi",
+        "Dátum": "2023. november 9.",
+        "Mit főzött": "Répatorta"
     },
     {
-        "Mit főzött": "Répatorta",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Zsófi",
+        "Dátum": "2023. november 12.",
+        "Mit főzött": "Borsós-currys sült tök rizzsel és falafellel"
     },
     {
-        "Mit főzött": "Borsós-currys sült tök rizzsel és falafellel",
-        "Név": "Zsófia Ivanics"
+        "Név": "Ádám",
+        "Dátum": "2023. november 14.",
+        "Mit főzött": "Tojásos lecsó"
     },
     {
-        "Mit főzött": "Tojásos lecsó",
-        "Név": "Ádám Pintér"
+        "Név": "Pite",
+        "Dátum": "2023. november 18.",
+        "Mit főzött": "Wokos zöldség rizzsel"
     },
     {
-        "Mit főzött": "Wokos zöldség rizzsel",
-        "Név": "Attila Juhász"
+        "Név": "Ádám",
+        "Dátum": "2023. november 22.",
+        "Mit főzött": "Sült édeskrumpli és cékla házi paprikakrémmel"
     },
     {
-        "Mit főzött": "Sült édeskrumpli és cékla házi paprikakrémmel",
-        "Név": "Ádám Pintér"
+        "Név": "Csaba",
+        "Dátum": "2023. november 23-25.",
+        "Mit főzött": "Hagymaleves és bécsi palacsinta"
     },
     {
-        "Mit főzött": "Hagymaleves és bécsi palacsinta",
-        "Név": "Jelinek Csaba"
+        "Név": "Zsuzsi",
+        "Dátum": "2023. november 26.",
+        "Mit főzött": "Tortilla bucik céklakrémmel, sült zöldségekkel és tofuval"
     },
     {
-        "Mit főzött": "Tortilla bucik céklakrémmel, sült zöldségekkel és tofuval",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Zsófi",
+        "Dátum": "2023. november 29.",
+        "Mit főzött": "Sült zöldségből készült krémleves"
     },
     {
-        "Mit főzött": "Sült zöldségből készült krémleves",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsófi",
+        "Dátum": "2023. december 1.",
+        "Mit főzött": "Indiai jellegű egytálétel lencsefasírttal"
     },
     {
-        "Mit főzött": "Indiai jellegű egytálétel lencsefasírttal",
-        "Név": "Zsófia Ivanics"
+        "Név": "Dóri",
+        "Dátum": "2023. december 4.",
+        "Mit főzött": "Gombapaprikás petrezselymes kölessel"
     },
     {
-        "Mit főzött": "Gombapaprikás petrezselymes kölessel",
-        "Név": "Dóri Gimes"
+        "Név": "Pite",
+        "Dátum": "2023. december 9.",
+        "Mit főzött": "Rakott krumpli"
     },
     {
-        "Mit főzött": "Rakott krumpli",
-        "Név": "Attila Juhász"
+        "Név": "Ádám",
+        "Dátum": "2023. december 12.",
+        "Mit főzött": "Wokos zöldség üvegtésztával"
     },
     {
-        "Mit főzött": "Wokos zöldség üvegtésztával",
-        "Név": "Ádám Pintér"
+        "Név": "Csaba",
+        "Dátum": "2023. december 15-16.",
+        "Mit főzött": "Székelykáposzta (húsos és tofus változatban)"
     },
     {
-        "Mit főzött": "Székelykáposzta (húsos és tofus változatban)",
-        "Név": "Jelinek Csaba"
+        "Név": "Zsuzsi",
+        "Dátum": "2023. december 16-17.",
+        "Mit főzött": "Sütőtökös-édeskrumplis leves és sütőtökös süti"
     },
     {
-        "Mit főzött": "Sütőtökös-édeskrumplis leves és sütőtökös süti",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Zsófi",
+        "Dátum": "2023. december 19.",
+        "Mit főzött": "Wokos zöldséges-tofus tojásos rizs"
     },
     {
-        "Mit főzött": "Wokos zöldséges-tofus tojásos rizs",
-        "Név": "Zsófia Ivanics"
+        "Név": "Dóri",
+        "Dátum": "2023. december 21.",
+        "Mit főzött": "Teljes kiőrlésű spagetti spenótos-sült édeskrumplis-paradicsomos szósszal"
     },
     {
-        "Mit főzött": "Teljes kiőrlésű spagetti spenótos-sült édeskrumplis-paradicsomos szósszal",
-        "Név": "Dóri Gimes"
+        "Név": "",
+        "Dátum": "",
+        "Mit főzött": ""
     },
     {
-        "Mit főzött": "",
-        "Név": ""
+        "Név": "Ádám",
+        "Dátum": "2022. január 12.",
+        "Mit főzött": "Lilakáposzta-krémleves, rakott édesburgonya köleses-gombás töltelékkel"
     },
     {
-        "Mit főzött": "Lilakáposzta-krémleves, rakott édesburgonya köleses-gombás töltelékkel",
-        "Név": "Ádám Pintér"
+        "Név": "Zsófi",
+        "Dátum": "2022. január 13.",
+        "Mit főzött": "Káposztafarsírt, bulgur, fűszeres paradicsomszósz"
     },
     {
-        "Mit főzött": "Káposztafarsírt, bulgur, fűszeres paradicsomszósz",
-        "Név": "Zsófia Ivanics"
+        "Név": "Dóri",
+        "Dátum": "2022. január 16.",
+        "Mit főzött": "Vega gombapaprikás, petrezselymes köles, csokis-sütőtökös süti"
     },
     {
-        "Mit főzött": "Vega gombapaprikás, petrezselymes köles, csokis-sütőtökös süti",
-        "Név": "Dóri Gimes"
+        "Név": "Andris",
+        "Dátum": "2022. január 18.",
+        "Mit főzött": "Frankfurti leves, rakott babos tészta"
     },
     {
-        "Mit főzött": "Frankfurti leves, rakott babos tészta",
-        "Név": "András Vigvári"
+        "Név": "Csaba",
+        "Dátum": "2022. január 22.",
+        "Mit főzött": "Szarvasgombás házi pizza, sült karfiolos saláta"
     },
     {
-        "Mit főzött": "Szarvasgombás házi pizza, sült karfiolos saláta",
-        "Név": "Jelinek Csaba"
+        "Név": "Zsuzsi",
+        "Dátum": "2022. január 26.",
+        "Mit főzött": "Ázsiai sült batyuk mogyorószósszal és rizzsel kelkáposztával"
     },
     {
-        "Mit főzött": "Ázsiai sült batyuk mogyorószósszal és rizzsel kelkáposztával",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Dóri",
+        "Dátum": "2022. február 15.",
+        "Mit főzött": "Vega bolognai ragus tepsis rakott tészta"
     },
     {
-        "Mit főzött": "Vega bolognai ragus tepsis rakott tészta",
-        "Név": "Dóri Gimes"
+        "Név": "Csaba",
+        "Dátum": "2022. február 19.",
+        "Mit főzött": "Kelkáposzta főzelék (kétféle feltéttel: virsli és tojáskrokett)"
     },
     {
-        "Mit főzött": "Kelkáposzta főzelék (kétféle feltéttel: virsli és tojáskrokett)",
-        "Név": "Jelinek Csaba"
+        "Név": "Ádám",
+        "Dátum": "2022. február 22.",
+        "Mit főzött": "Csicseriborsós gombapörkölt zöldséges bulgurral"
     },
     {
-        "Mit főzött": "Csicseriborsós gombapörkölt zöldséges bulgurral",
-        "Név": "Ádám Pintér"
+        "Név": "Pite",
+        "Dátum": "2022. február 24.",
+        "Mit főzött": "Káposztás-céklás leves sült tofúval, hajdinapalacsinta"
     },
     {
-        "Mit főzött": "Káposztás-céklás leves sült tofúval, hajdinapalacsinta",
-        "Név": "Attila Juhász"
+        "Név": "Zsófi",
+        "Dátum": "2022. február 26.",
+        "Mit főzött": "Currys rizs, sült zeller és édeskrumpli, spenótos tofu"
     },
     {
-        "Mit főzött": "Currys rizs, sült zeller és édeskrumpli, spenótos tofu",
-        "Név": "Zsófia Ivanics"
+        "Név": "Dóri",
+        "Dátum": "2022. március 1.",
+        "Mit főzött": "Gombás rakott kelkáposzta"
     },
     {
-        "Mit főzött": "Gombás rakott kelkáposzta",
-        "Név": "Dóri Gimes"
+        "Név": "Zsuzsi",
+        "Dátum": "2022. március 3.",
+        "Mit főzött": "Töltött karalábé bulgurral"
     },
     {
-        "Mit főzött": "Töltött karalábé bulgurral",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Andris",
+        "Dátum": "2022. március 8.",
+        "Mit főzött": "Erdélyi rakott káposzta (húsos és húsmentes változatban)"
     },
     {
-        "Mit főzött": "Erdélyi rakott káposzta (húsos és húsmentes változatban)",
-        "Név": "András Vigvári"
+        "Név": "Ádám",
+        "Dátum": "2022. március 10.",
+        "Mit főzött": "Sütőtökkrémleves, sült zöldséges fetás lencsesaláta"
     },
     {
-        "Mit főzött": "Sütőtökkrémleves, sült zöldséges fetás lencsesaláta",
-        "Név": "Ádám Pintér"
+        "Név": "Zsófi",
+        "Dátum": "2022. március 12.",
+        "Mit főzött": "Borsófőzelék rántott sajttal"
     },
     {
-        "Mit főzött": "Borsófőzelék rántott sajttal",
-        "Név": "Zsófia Ivanics"
+        "Név": "Csaba",
+        "Dátum": "2022. március 18.",
+        "Mit főzött": "Kókuszos csirkecurry kurkumás rizzsel"
     },
     {
-        "Mit főzött": "Kókuszos csirkecurry kurkumás rizzsel",
-        "Név": "Jelinek Csaba"
+        "Név": "Zsófi",
+        "Dátum": "2022. március 26.",
+        "Mit főzött": "Békebeli bolognai ragu"
     },
     {
-        "Mit főzött": "Békebeli bolognai ragu",
-        "Név": "Zsófia Ivanics"
+        "Név": "Dóri",
+        "Dátum": "2022. március 28.",
+        "Mit főzött": "Csiperkegomba krémleves, pirított karfiolos vöröslencsecurry basmati rizzsel"
     },
     {
-        "Mit főzött": "Csiperkegomba krémleves, pirított karfiolos vöröslencsecurry basmati rizzsel",
-        "Név": "Dóri Gimes"
+        "Név": "Pite",
+        "Dátum": "2022. április 5.",
+        "Mit főzött": "Muszaka"
     },
     {
-        "Mit főzött": "Muszaka",
-        "Név": "Attila Juhász"
+        "Név": "Zsófi",
+        "Dátum": "2022. április 9.",
+        "Mit főzött": "Céklás lasagne (tofuval és répával)"
     },
     {
-        "Mit főzött": "Céklás lasagne (tofuval és répával)",
-        "Név": "Zsófia Ivanics"
+        "Név": "Dóri",
+        "Dátum": "2022. április 12.",
+        "Mit főzött": "Gombás-padlizsános curry gerslivel"
     },
     {
-        "Mit főzött": "Gombás-padlizsános curry gerslivel",
-        "Név": "Dóri Gimes"
+        "Név": "Zsuzsi",
+        "Dátum": "2022. április 19.",
+        "Mit főzött": "Tofus-tojásos-répás batyuk és saláta"
     },
     {
-        "Mit főzött": "Tofus-tojásos-répás batyuk és saláta",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Csaba",
+        "Dátum": "2022. április 24.",
+        "Mit főzött": "Zöldségcurry rizzsel"
     },
     {
-        "Mit főzött": "Zöldségcurry rizzsel",
-        "Név": "Jelinek Csaba"
+        "Név": "Ádám",
+        "Dátum": "2022. április 26.",
+        "Mit főzött": "Medvehagymás krumplikrémleves, gombás-zöldséges quiche"
     },
     {
-        "Mit főzött": "Medvehagymás krumplikrémleves, gombás-zöldséges quiche",
-        "Név": "Ádám Pintér"
+        "Név": "Pite",
+        "Dátum": "2022. április 28.",
+        "Mit főzött": "Paradicsomos gomba tésztával"
     },
     {
-        "Mit főzött": "Paradicsomos gomba tésztával",
-        "Név": "Attila Juhász"
+        "Név": "Zsófi",
+        "Dátum": "2022. április 30.",
+        "Mit főzött": "Wok zöldség sült krumplival és zöld szósszal"
     },
     {
-        "Mit főzött": "Wok zöldség sült krumplival és zöld szósszal",
-        "Név": "Zsófia Ivanics"
+        "Név": "Ádám",
+        "Dátum": "2022. május 4.",
+        "Mit főzött": "Tepsis újkrumpli, mángold szósz, zabpehelyben forgatott rizsgolyók"
     },
     {
-        "Mit főzött": "Tepsis újkrumpli, mángold szósz, zabpehelyben forgatott rizsgolyók",
-        "Név": "Ádám Pintér"
+        "Név": "Csaba",
+        "Dátum": "2022. május 7.",
+        "Mit főzött": "Rakott spárga"
     },
     {
-        "Mit főzött": "Rakott spárga",
-        "Név": "Jelinek Csaba"
+        "Név": "Zsuzsi",
+        "Dátum": "2022. május 7.",
+        "Mit főzött": "K-leves (karalábé, krumpli, karfiol, káposzta), rebarbarás-almás zabsüti"
     },
     {
-        "Mit főzött": "K-leves (karalábé, krumpli, karfiol, káposzta), rebarbarás-almás zabsüti",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Dóri",
+        "Dátum": "2022. május 10.",
+        "Mit főzött": "Sült halloumi, coleslaw, hagymás tepsis krumpli"
     },
     {
-        "Mit főzött": "Sült halloumi, coleslaw, hagymás tepsis krumpli",
-        "Név": "Dóri Gimes"
+        "Név": "Pite",
+        "Dátum": "2022. május 11.",
+        "Mit főzött": "Cukkinis wok zöldség és sült krumpli"
     },
     {
-        "Mit főzött": "Cukkinis wok zöldség és sült krumpli",
-        "Név": "Attila Juhász"
+        "Név": "Zsófi",
+        "Dátum": "2022. május 14.",
+        "Mit főzött": "Tofus wokos zöldség rizzsel"
     },
     {
-        "Mit főzött": "Tofus wokos zöldség rizzsel",
-        "Név": "Zsófia Ivanics"
+        "Név": "Ádám",
+        "Dátum": "2022. május 18.",
+        "Mit főzött": "Spárgás-gombás rakott újkrumpli"
     },
     {
-        "Mit főzött": "Spárgás-gombás rakott újkrumpli",
-        "Név": "Ádám Pintér"
+        "Név": "Csaba",
+        "Dátum": "2022. május 21.",
+        "Mit főzött": "Tejfölös újkrumpli főzelék sült zellerrel"
     },
     {
-        "Mit főzött": "Tejfölös újkrumpli főzelék sült zellerrel",
-        "Név": "Jelinek Csaba"
+        "Név": "Dóri",
+        "Dátum": "2022. május 23.",
+        "Mit főzött": "Spenótos-paradicsomos-sajtos-kerti mángoldos lasagne"
     },
     {
-        "Mit főzött": "Spenótos-paradicsomos-sajtos-kerti mángoldos lasagne",
-        "Név": "Dóri Gimes"
+        "Név": "Zsuzsi",
+        "Dátum": "2022. június 2.",
+        "Mit főzött": "Krumplifasírt (fejenként négy darab), mángoldos-kapros tök"
     },
     {
-        "Mit főzött": "Krumplifasírt (fejenként négy darab), mángoldos-kapros tök",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Zsófi",
+        "Dátum": "2022. június 5.",
+        "Mit főzött": "Tabouleh cukkinivel, grillsajttal, aszalt paradicsommal; lime-os bazsalikomos répasaláta"
     },
     {
-        "Mit főzött": "Tabouleh cukkinivel, grillsajttal, aszalt paradicsommal; lime-os bazsalikomos répasaláta",
-        "Név": "Zsófia Ivanics"
+        "Név": "Dóri",
+        "Dátum": "2022. június 7.",
+        "Mit főzött": "Kukorica krémleves, túrógombóc tejföllel (fejenként 5 db)"
     },
     {
-        "Mit főzött": "Kukorica krémleves, túrógombóc tejföllel (fejenként 5 db)",
-        "Név": "Dóri Gimes"
+        "Név": "Zsófi",
+        "Dátum": "2022. június 12.",
+        "Mit főzött": "Tabouleh cukkinivel, grillsajttal, aszalt paradicsommal; lime-os bazsalikomos répasaláta"
     },
     {
-        "Mit főzött": "Tabouleh cukkinivel, grillsajttal, aszalt paradicsommal; lime-os bazsalikomos répasaláta",
-        "Név": "Zsófia Ivanics"
+        "Név": "Ádám",
+        "Dátum": "2022. június 29.",
+        "Mit főzött": "Petrezselymes újkrumpli, cukkiniragu (lecsó), vajon párolt vajbab"
     },
     {
-        "Mit főzött": "Petrezselymes újkrumpli, cukkiniragu (lecsó), vajon párolt vajbab",
-        "Név": "Ádám Pintér"
+        "Név": "Pite",
+        "Dátum": "2022. július 2.",
+        "Mit főzött": "Meggyleves, tésztasaláta"
     },
     {
-        "Mit főzött": "Meggyleves, tésztasaláta",
-        "Név": "Attila Juhász"
+        "Név": "Csaba",
+        "Dátum": "2022. július 4.",
+        "Mit főzött": "Tökfőzelék (laktózmentes), zöldségfasírt"
     },
     {
-        "Mit főzött": "Tökfőzelék (laktózmentes), zöldségfasírt",
-        "Név": "Jelinek Csaba"
+        "Név": "Dóri",
+        "Dátum": "2022. július 5.",
+        "Mit főzött": "Gombás-zöldséges pizza"
     },
     {
-        "Mit főzött": "Gombás-zöldséges pizza",
-        "Név": "Dóri Gimes"
+        "Név": "Zsófi",
+        "Dátum": "2022. július 8.",
+        "Mit főzött": "Zöldségcurry lepénnyel (sima és teljes kiőrlésű), korianderrel és lime-mal"
     },
     {
-        "Mit főzött": "Zöldségcurry lepénnyel (sima és teljes kiőrlésű), korianderrel és lime-mal",
-        "Név": "Zsófia Ivanics"
+        "Név": "Pite",
+        "Dátum": "2022. július 10.",
+        "Mit főzött": "Céklafasírt, joghurtos padlizsán és cukkini"
     },
     {
-        "Mit főzött": "Céklafasírt, joghurtos padlizsán és cukkini",
-        "Név": "Attila Juhász"
+        "Név": "Ádám",
+        "Dátum": "2022. július 13.",
+        "Mit főzött": "Karalábéleves, póréhagymás lepény"
     },
     {
-        "Mit főzött": "Karalábéleves, póréhagymás lepény",
-        "Név": "Ádám Pintér"
+        "Név": "Zsuzsi",
+        "Dátum": "2022. július 13.",
+        "Mit főzött": "Tökös quiche, tzatziki"
     },
     {
-        "Mit főzött": "Tökös quiche, tzatziki",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Csaba",
+        "Dátum": "2022. július 14.",
+        "Mit főzött": "Sült karfiolos csicseris saláta zöldekkel; zöldbabkrémleves pirított zöldbabbal"
     },
     {
-        "Mit főzött": "Sült karfiolos csicseris saláta zöldekkel; zöldbabkrémleves pirított zöldbabbal",
-        "Név": "Jelinek Csaba"
+        "Név": "Csaba",
+        "Dátum": "2022. augusztus 13.",
+        "Mit főzött": "Répával töltött padlizsán, sültpaprikás petrezselymes bulgur"
     },
     {
-        "Mit főzött": "Répával töltött padlizsán, sültpaprikás petrezselymes bulgur",
-        "Név": "Jelinek Csaba"
+        "Név": "Dóri",
+        "Dátum": "2022. augusztus 14.",
+        "Mit főzött": "Paradicsomos-köleses/csicseris rakott cukkini"
     },
     {
-        "Mit főzött": "Paradicsomos-köleses/csicseris rakott cukkini",
-        "Név": "Dóri Gimes"
+        "Név": "Zsuzsi",
+        "Dátum": "2022. augusztus 17.",
+        "Mit főzött": "Patiszonos-pesztós tészta, laktózmentes joghurtos céklasaláta"
     },
     {
-        "Mit főzött": "Patiszonos-pesztós tészta, laktózmentes joghurtos céklasaláta",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Pite",
+        "Dátum": "2022. augusztus 19.",
+        "Mit főzött": "Lecsó tojással"
     },
     {
-        "Mit főzött": "Lecsó tojással",
-        "Név": "Attila Juhász"
+        "Név": "Zsófi",
+        "Dátum": "2022. augusztus 23.",
+        "Mit főzött": "Laskás paprikás krumpli gyöngyhagymával és uborkával"
     },
     {
-        "Mit főzött": "Laskás paprikás krumpli gyöngyhagymával és uborkával",
-        "Név": "Zsófia Ivanics"
+        "Név": "Ádám",
+        "Dátum": "2022. augusztus 25.",
+        "Mit főzött": "Köleses rakott zöldségek"
     },
     {
-        "Mit főzött": "Köleses rakott zöldségek",
-        "Név": "Ádám Pintér"
+        "Név": "Dóri",
+        "Dátum": "2022. szeptember 6.",
+        "Mit főzött": "Vega chili con carne"
     },
     {
-        "Mit főzött": "Vega chili con carne",
-        "Név": "Dóri Gimes"
+        "Név": "Zsófi",
+        "Dátum": "2022. szeptember 8.",
+        "Mit főzött": "Cukkinis lasagne"
     },
     {
-        "Mit főzött": "Cukkinis lasagne",
-        "Név": "Zsófia Ivanics"
+        "Név": "Csaba",
+        "Dátum": "2022. szeptember 11.",
+        "Mit főzött": "Gombapaprikás tésztával"
     },
     {
-        "Mit főzött": "Gombapaprikás tésztával",
-        "Név": "Jelinek Csaba"
+        "Név": "Zsuzsi",
+        "Dátum": "2022. szeptember 14.",
+        "Mit főzött": "Gratin-jellegű étel: sült krumplipüré, kukorica-hagyma-cukkini növényi tejszínes tojásos szósszal"
     },
     {
-        "Mit főzött": "Gratin-jellegű étel: sült krumplipüré, kukorica-hagyma-cukkini növényi tejszínes tojásos szósszal",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Ádám",
+        "Dátum": "2022. szeptember 17.",
+        "Mit főzött": "Csípős zöldségragu bulgurral"
     },
     {
-        "Mit főzött": "Csípős zöldségragu bulgurral",
-        "Név": "Ádám Pintér"
+        "Név": "Zsófi",
+        "Dátum": "2022. szeptember 18.",
+        "Mit főzött": "Spenótos tofu tejszínes mártásban, cukkinis zabos tallérok"
     },
     {
-        "Mit főzött": "Spenótos tofu tejszínes mártásban, cukkinis zabos tallérok",
-        "Név": "Zsófia Ivanics"
+        "Név": "Dóri",
+        "Dátum": "2022. szeptember 22.",
+        "Mit főzött": "Spenótos-paradicsomos-sajtos tepsis penne"
     },
     {
-        "Mit főzött": "Spenótos-paradicsomos-sajtos tepsis penne",
-        "Név": "Dóri Gimes"
+        "Név": "Csaba",
+        "Dátum": "2022. szeptember 22.",
+        "Mit főzött": "Karfiolos-hagymás tört krumpli zöldségfasírttal"
     },
     {
-        "Mit főzött": "Karfiolos-hagymás tört krumpli zöldségfasírttal",
-        "Név": "Jelinek Csaba"
+        "Név": "Pite",
+        "Dátum": "2022. szeptember 24.",
+        "Mit főzött": "Padlizsánkrémmel töltött sült paprika krumplival"
     },
     {
-        "Mit főzött": "Padlizsánkrémmel töltött sült paprika krumplival",
-        "Név": "Attila Juhász"
+        "Név": "Dóri",
+        "Dátum": "2022. szeptember 28.",
+        "Mit főzött": "Sütőtökkrémleves pirított tökmaggal, sajtos muffin"
     },
     {
-        "Mit főzött": "Sütőtökkrémleves pirított tökmaggal, sajtos muffin",
-        "Név": "Dóri Gimes"
+        "Név": "Ádám",
+        "Dátum": "2022. szeptember 30.",
+        "Mit főzött": "Tofus székelykáposzta"
     },
     {
-        "Mit főzött": "Tofus székelykáposzta",
-        "Név": "Ádám Pintér"
+        "Név": "Pite",
+        "Dátum": "2022. október 1.",
+        "Mit főzött": "Gombaleves, wokos zöldség"
     },
     {
-        "Mit főzött": "Gombaleves, wokos zöldség",
-        "Név": "Attila Juhász"
+        "Név": "Zsófi",
+        "Dátum": "2022. október 3.",
+        "Mit főzött": "Céklás-karfiolos wokzöldség sült kelkáposztás hajdinával"
     },
     {
-        "Mit főzött": "Céklás-karfiolos wokzöldség sült kelkáposztás hajdinával",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsuzsi",
+        "Dátum": "2022. október 7.",
+        "Mit főzött": "Kelet-európai céklás-káposztás leves, körtés-gyömbéres süti"
     },
     {
-        "Mit főzött": "Kelet-európai céklás-káposztás leves, körtés-gyömbéres süti",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Ádám",
+        "Dátum": "2022. október 16.",
+        "Mit főzött": "Lecsó (kolbászos és vega verzió)"
     },
     {
-        "Mit főzött": "Lecsó (kolbászos és vega verzió)",
-        "Név": "Ádám Pintér"
+        "Név": "Dóri",
+        "Dátum": "2022. október 16.",
+        "Mit főzött": "Zöldborsófőzelék, cukkínis-répás-zabos zöldségfasírt"
     },
     {
-        "Mit főzött": "Zöldborsófőzelék, cukkínis-répás-zabos zöldségfasírt",
-        "Név": "Dóri Gimes"
+        "Név": "Csaba",
+        "Dátum": "2022. október 22.",
+        "Mit főzött": "Rakott krumpli (két üvegtálban, mindkettő vega)"
     },
     {
-        "Mit főzött": "Rakott krumpli (két üvegtálban, mindkettő vega)",
-        "Név": "Jelinek Csaba"
+        "Név": "Zsófi",
+        "Dátum": "2022. október 25.",
+        "Mit főzött": "Paradicsomos tészta reszelt tofuval"
     },
     {
-        "Mit főzött": "Paradicsomos tészta reszelt tofuval",
-        "Név": "Zsófia Ivanics"
+        "Név": "Zsuzsi",
+        "Dátum": "2022. október 27.",
+        "Mit főzött": "Sült polenta juhtúróval (Dórinak anélkül), sült cékla és kelkáposzta szezámos szósszal"
     },
     {
-        "Mit főzött": "Sült polenta juhtúróval (Dórinak anélkül), sült cékla és kelkáposzta szezámos szósszal",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Pite",
+        "Dátum": "2022. október 29.",
+        "Mit főzött": "Sült paprika paradicsomos-spenótos rizzsel"
     },
     {
-        "Mit főzött": "Sült paprika paradicsomos-spenótos rizzsel",
-        "Név": "Attila Juhász"
+        "Név": "Csaba",
+        "Dátum": "2022. november 3.",
+        "Mit főzött": "Sütőtökös-fetás sült zöldség bulgurral (feta nélküli verzió Dórinak)"
     },
     {
-        "Mit főzött": "Sütőtökös-fetás sült zöldség bulgurral (feta nélküli verzió Dórinak)",
-        "Név": "Jelinek Csaba"
+        "Név": "Zsuzsi",
+        "Dátum": "2022. november 5.",
+        "Mit főzött": "Sütőtökleves és brokkolis pizza"
     },
     {
-        "Mit főzött": "Sütőtökleves és brokkolis pizza",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Dóri",
+        "Dátum": "2022. november 6.",
+        "Mit főzött": "Kelkáposztakrémleves és répás-sajtos muffin"
     },
     {
-        "Mit főzött": "Kelkáposztakrémleves és répás-sajtos muffin",
-        "Név": "Dóri Gimes"
+        "Név": "Zsófi",
+        "Dátum": "2022. november 9.",
+        "Mit főzött": "Fetas-édeskrumplis krémmel sült kelbimbós hajdina, szezámos wokos gyökérzöldségek"
     },
     {
-        "Mit főzött": "Fetas-édeskrumplis krémmel sült kelbimbós hajdina, szezámos wokos gyökérzöldségek",
-        "Név": "Zsófia Ivanics"
+        "Név": "Ádám",
+        "Dátum": "2022. november 15.",
+        "Mit főzött": "Rakott karfiol"
     },
     {
-        "Mit főzött": "Rakott karfiol",
-        "Név": "Ádám Pintér"
+        "Név": "Pite",
+        "Dátum": "2022. november 19.",
+        "Mit főzött": "Édeskrumplis-csicsókás püré, wokos zöldségkeverék"
     },
     {
-        "Mit főzött": "Édeskrumplis-csicsókás püré, wokos zöldségkeverék",
-        "Név": "Attila Juhász"
+        "Név": "Dóri",
+        "Dátum": "2022. november 20.",
+        "Mit főzött": "Pirított kínai keles-túrós/fetás bulgurral"
     },
     {
-        "Mit főzött": "Pirított kínai keles-túrós/fetás bulgurral",
-        "Név": "Dóri Gimes"
+        "Név": "Zsuzsi",
+        "Dátum": "2022. november 23.",
+        "Mit főzött": "Kelkáposztafőzelék sült törtkrumplival és keménytojással"
     },
     {
-        "Mit főzött": "Kelkáposztafőzelék sült törtkrumplival és keménytojással",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Csaba",
+        "Dátum": "2022. november 26.",
+        "Mit főzött": "Gombás-karalábés rizottó friss tavaszi salátával"
     },
     {
-        "Mit főzött": "Gombás-karalábés rizottó friss tavaszi salátával",
-        "Név": "Jelinek Csaba"
+        "Név": "Zsuzsi",
+        "Dátum": "2022. december 3.",
+        "Mit főzött": "Sárgacéklás zöldségragu, sült krumpli és céklalevél \"szötty\""
     },
     {
-        "Mit főzött": "Sárgacéklás zöldségragu, sült krumpli és céklalevél \"szötty\"",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Dóri",
+        "Dátum": "2022. december 6.",
+        "Mit főzött": "Zabos-csicseris fasírt és fűszeres répasaláta"
     },
     {
-        "Mit főzött": "Zabos-csicseris fasírt és fűszeres répasaláta",
-        "Név": "Dóri Gimes"
+        "Név": "Ádám",
+        "Dátum": "2022. december 13.",
+        "Mit főzött": "Zöldborsófőzelék és babfasírt"
     },
     {
-        "Mit főzött": "Zöldborsófőzelék és babfasírt",
-        "Név": "Ádám Pintér"
+        "Név": "Zsófi",
+        "Dátum": "2022. december 14.",
+        "Mit főzött": "Rakott kínai kel (húsos és húsmentes változatban)"
     },
     {
-        "Mit főzött": "Rakott kínai kel (húsos és húsmentes változatban)",
-        "Név": "Zsófia Ivanics"
+        "Név": "Csaba",
+        "Dátum": "2022. december 19.",
+        "Mit főzött": "Vega muszaka"
     },
     {
-        "Mit főzött": "Vega muszaka",
-        "Név": "Jelinek Csaba"
-    },
-    {
-        "Mit főzött": "Krumplipüré, szójásan sült brokkoli és kelbimbó, céklafasírt, tejfölös-fűszeres szósz",
-        "Név": "Pósfai Zsuzsi"
+        "Név": "Zsuzsi",
+        "Dátum": "2022. december 22.",
+        "Mit főzött": "Krumplipüré, szójásan sült brokkoli és kelbimbó, céklafasírt, tejfölös-fűszeres szósz"
     }
 ]
